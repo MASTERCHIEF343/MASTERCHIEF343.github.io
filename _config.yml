@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: yunjingyang1995@163.com
 description: "关于诗和远方、程序员自黑 | 爱哭的小男孩，Life & Books，Deep Learning amateur，如果你知道未来是什么"
 keyword: "爱哭的小男孩, MasterChief's Blog, 博客, 个人网站, 互联网, 深度学习，机器人"
-url: "https://yunjingyang.me"              # your host, for absolute URL
+url: "http://MASTERCHIEF343.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
