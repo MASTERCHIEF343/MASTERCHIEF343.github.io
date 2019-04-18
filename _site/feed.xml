@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <description>关于诗和远方、程序员自黑 | 爱哭的小男孩，Life &amp; Books，Deep Learning amateur，如果你知道未来是什么</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Apr 2019 17:25:22 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Apr 2019 17:25:22 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hello 2019</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+
+&lt;p&gt;Crying boy的博客
+很久没有写博客了，上次还是2016年左右，前后用PHP搭建过两个博客，但是后续没有再维护。
+现如今重拾笔头，希望能够梳理自己的脉络，写下自己的故事&lt;/p&gt;
+
+&lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;正文&quot;&gt;正文&lt;/h2&gt;
+
+&lt;p&gt;这个博客采用了基于jeklly的静态搭建技术，类似Hexo，但是稍微复杂一些。
+具体的文件架构和操作还未完全弄清楚，还需自己看一下文档。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;非常感谢&lt;a href=&quot;https://github.com/Huxpro&quot;&gt;@Huxpro&lt;/a&gt;再Github上的分享，也参照了一部分网络上的指导。&lt;/p&gt;
+
+&lt;h2 id=&quot;后记&quot;&gt;后记&lt;/h2&gt;
+
+&lt;p&gt;记载一些零星琐事，写一写自己对于研究的理解。&lt;/p&gt;
+
+&lt;p&gt;—— Crying 后记于 2019.04&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Apr 2019 01:17:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/04/19/hello-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/19/hello-2019/</guid>
+        
+        <category>生活</category>
+        
+        <category>Meta</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
