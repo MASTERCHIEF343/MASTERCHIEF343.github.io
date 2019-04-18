@@ -173,7 +173,7 @@
     document.addEventListener('click', function(e){
         if(e.target == $toggle) return;
         if(e.target.className == 'icon-bar') return;
-        __HuxNav__.close();
+        __BoyNav__.close();
     })
 </script>
 
@@ -250,12 +250,11 @@
 很久没有写博客了，上次还是2016年左右，前后用PHP搭建过两个博客，但是后续没有再维护。
 现如今重拾笔头，希望能够梳理自己的脉络，写下自己的故事</p>
 
-<p id="build"></p>
 <hr />
 
 <h2 id="正文">正文</h2>
 
-<p>这个博客采用了基于jeklly的静态搭建技术，类似Hexo，但是稍微复杂一些。
+<p>这个博客采用了基于jekyll的静态搭建技术，类似Hexo，但是稍微复杂一些。
 具体的文件架构和操作还未完全弄清楚，还需自己看一下文档。</p>
 
 <hr />
@@ -387,7 +386,7 @@
         anchors.options = {
           visible: 'always',
           placement: 'right',
-          icon: '#'
+          icon: ''
         };
         anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
     })
